@@ -1,0 +1,14 @@
+/Users/jojokoomson/dcit318-assignment1-10954302/Ticket-Price-Calculator/bin/Debug/net8.0/Ticket-Price-Calculator
+/Users/jojokoomson/dcit318-assignment1-10954302/Ticket-Price-Calculator/bin/Debug/net8.0/Ticket-Price-Calculator.deps.json
+/Users/jojokoomson/dcit318-assignment1-10954302/Ticket-Price-Calculator/bin/Debug/net8.0/Ticket-Price-Calculator.runtimeconfig.json
+/Users/jojokoomson/dcit318-assignment1-10954302/Ticket-Price-Calculator/bin/Debug/net8.0/Ticket-Price-Calculator.dll
+/Users/jojokoomson/dcit318-assignment1-10954302/Ticket-Price-Calculator/bin/Debug/net8.0/Ticket-Price-Calculator.pdb
+/Users/jojokoomson/dcit318-assignment1-10954302/Ticket-Price-Calculator/obj/Debug/net8.0/Ticket-Price-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jojokoomson/dcit318-assignment1-10954302/Ticket-Price-Calculator/obj/Debug/net8.0/Ticket-Price-Calculator.AssemblyInfoInputs.cache
+/Users/jojokoomson/dcit318-assignment1-10954302/Ticket-Price-Calculator/obj/Debug/net8.0/Ticket-Price-Calculator.AssemblyInfo.cs
+/Users/jojokoomson/dcit318-assignment1-10954302/Ticket-Price-Calculator/obj/Debug/net8.0/Ticket-Price-Calculator.csproj.CoreCompileInputs.cache
+/Users/jojokoomson/dcit318-assignment1-10954302/Ticket-Price-Calculator/obj/Debug/net8.0/Ticket-Price-Calculator.dll
+/Users/jojokoomson/dcit318-assignment1-10954302/Ticket-Price-Calculator/obj/Debug/net8.0/refint/Ticket-Price-Calculator.dll
+/Users/jojokoomson/dcit318-assignment1-10954302/Ticket-Price-Calculator/obj/Debug/net8.0/Ticket-Price-Calculator.pdb
+/Users/jojokoomson/dcit318-assignment1-10954302/Ticket-Price-Calculator/obj/Debug/net8.0/Ticket-Price-Calculator.genruntimeconfig.cache
+/Users/jojokoomson/dcit318-assignment1-10954302/Ticket-Price-Calculator/obj/Debug/net8.0/ref/Ticket-Price-Calculator.dll
