@@ -1,0 +1,14 @@
+/Users/jojokoomson/dcit318-assignment1-10954302/Triangle-Type-Checker/bin/Debug/net8.0/Triangle-Type-Checker
+/Users/jojokoomson/dcit318-assignment1-10954302/Triangle-Type-Checker/bin/Debug/net8.0/Triangle-Type-Checker.deps.json
+/Users/jojokoomson/dcit318-assignment1-10954302/Triangle-Type-Checker/bin/Debug/net8.0/Triangle-Type-Checker.runtimeconfig.json
+/Users/jojokoomson/dcit318-assignment1-10954302/Triangle-Type-Checker/bin/Debug/net8.0/Triangle-Type-Checker.dll
+/Users/jojokoomson/dcit318-assignment1-10954302/Triangle-Type-Checker/bin/Debug/net8.0/Triangle-Type-Checker.pdb
+/Users/jojokoomson/dcit318-assignment1-10954302/Triangle-Type-Checker/obj/Debug/net8.0/Triangle-Type-Checker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jojokoomson/dcit318-assignment1-10954302/Triangle-Type-Checker/obj/Debug/net8.0/Triangle-Type-Checker.AssemblyInfoInputs.cache
+/Users/jojokoomson/dcit318-assignment1-10954302/Triangle-Type-Checker/obj/Debug/net8.0/Triangle-Type-Checker.AssemblyInfo.cs
+/Users/jojokoomson/dcit318-assignment1-10954302/Triangle-Type-Checker/obj/Debug/net8.0/Triangle-Type-Checker.csproj.CoreCompileInputs.cache
+/Users/jojokoomson/dcit318-assignment1-10954302/Triangle-Type-Checker/obj/Debug/net8.0/Triangle-Type-Checker.dll
+/Users/jojokoomson/dcit318-assignment1-10954302/Triangle-Type-Checker/obj/Debug/net8.0/refint/Triangle-Type-Checker.dll
+/Users/jojokoomson/dcit318-assignment1-10954302/Triangle-Type-Checker/obj/Debug/net8.0/Triangle-Type-Checker.pdb
+/Users/jojokoomson/dcit318-assignment1-10954302/Triangle-Type-Checker/obj/Debug/net8.0/Triangle-Type-Checker.genruntimeconfig.cache
+/Users/jojokoomson/dcit318-assignment1-10954302/Triangle-Type-Checker/obj/Debug/net8.0/ref/Triangle-Type-Checker.dll
