@@ -1,0 +1,14 @@
+/Users/jojokoomson/dcit318-assignment1-10954302/Grade-Calculator/bin/Debug/net8.0/Grade-Calculator
+/Users/jojokoomson/dcit318-assignment1-10954302/Grade-Calculator/bin/Debug/net8.0/Grade-Calculator.deps.json
+/Users/jojokoomson/dcit318-assignment1-10954302/Grade-Calculator/bin/Debug/net8.0/Grade-Calculator.runtimeconfig.json
+/Users/jojokoomson/dcit318-assignment1-10954302/Grade-Calculator/bin/Debug/net8.0/Grade-Calculator.dll
+/Users/jojokoomson/dcit318-assignment1-10954302/Grade-Calculator/bin/Debug/net8.0/Grade-Calculator.pdb
+/Users/jojokoomson/dcit318-assignment1-10954302/Grade-Calculator/obj/Debug/net8.0/Grade-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jojokoomson/dcit318-assignment1-10954302/Grade-Calculator/obj/Debug/net8.0/Grade-Calculator.AssemblyInfoInputs.cache
+/Users/jojokoomson/dcit318-assignment1-10954302/Grade-Calculator/obj/Debug/net8.0/Grade-Calculator.AssemblyInfo.cs
+/Users/jojokoomson/dcit318-assignment1-10954302/Grade-Calculator/obj/Debug/net8.0/Grade-Calculator.csproj.CoreCompileInputs.cache
+/Users/jojokoomson/dcit318-assignment1-10954302/Grade-Calculator/obj/Debug/net8.0/Grade-Calculator.dll
+/Users/jojokoomson/dcit318-assignment1-10954302/Grade-Calculator/obj/Debug/net8.0/refint/Grade-Calculator.dll
+/Users/jojokoomson/dcit318-assignment1-10954302/Grade-Calculator/obj/Debug/net8.0/Grade-Calculator.pdb
+/Users/jojokoomson/dcit318-assignment1-10954302/Grade-Calculator/obj/Debug/net8.0/Grade-Calculator.genruntimeconfig.cache
+/Users/jojokoomson/dcit318-assignment1-10954302/Grade-Calculator/obj/Debug/net8.0/ref/Grade-Calculator.dll
